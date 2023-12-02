@@ -74,7 +74,7 @@ Below we have provided a few example outputs:
 
 ![figure 1 of question 2](/Images/Fig2.1.png)
 
-![figure 1 of question 3](/Images/Fig3.3.png)
+![figure 1 of question 3](/Images/Fig 3.3.png)
 
 ![figure 1 of question 4](/Images/Fig4.1.png)
 
