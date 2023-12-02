@@ -1,6 +1,12 @@
 # Movie Success Insights: Statistics, Popularity and Timing Considerations
 # project1_group4
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.pngall.com/wp-content/uploads/13/Movie-Hollywood-No-Background.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.pngall.com/wp-content/uploads/13/Movie-PNG-Free-Image.png">
+ <img alt=" " src="https://www.pngall.com/wp-content/uploads/13/Movie-Hollywood-PNG-Image-HD.png">
+</picture>
+
 ##  Contents
 
 * [Project Outline](#project-outline)
@@ -61,6 +67,18 @@ The following files below were used below to
 ## <a id="outputs"></a>Outputs
 
 The outputs are the figures that were exported from the relevant jupiter notebooks for each question (fig1.2 "figure 2 of question 1")
+
+Below we have provided a few example outputs:
+
+/Images/Fig1.1.png
+
+/Images/Fig2.1.png
+
+/Images/Fig 3.3.png
+
+/Images/Fig4.1.png
+
+/Images/Fig5.1.png
 
 All outputs are included in the Images folder of the repository:
 [Images](https://github.com/AnyasorG/project1_group4/tree/main/Images)
