@@ -67,8 +67,8 @@ All outputs are included in the Images folder of the repository:
 
 ## <a id="team"></a>Team/Contributors
 
-[Sunil Malhi](https://github.com/SunilMalhi)
-[Aysha Gheewala](https://github.com/AyshaGheewala)
-[Godswill Anyasor](https://github.com/AnyasorG)
-[Ayomide Olanrewaju](https://github.com/Edimayo5)
-[Mohammed Sadek Ahmed](https://github.com/Sadek-Ahmed16)
+* [Sunil Malhi](https://github.com/SunilMalhi)
+* [Aysha Gheewala](https://github.com/AyshaGheewala)
+* [Godswill Anyasor](https://github.com/AnyasorG)
+* [Ayomide Olanrewaju](https://github.com/Edimayo5)
+* [Mohammed Sadek Ahmed](https://github.com/Sadek-Ahmed16)
