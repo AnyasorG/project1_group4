@@ -42,18 +42,19 @@ The cleaned datasets that were used to create our statistical analysis and visua
 * movies_cleaned.csv
 
 (All resources used; raw data, cleaned data and files used to clean our databases are included in the Resources folder of the Repository:
-[Resources](https://github.com/AnyasorG/project1_group4/tree/main/Resources)
+[Resources](https://github.com/AnyasorG/project1_group4/tree/main/Resources) )
 
 ## <a id="project-files"></a>Project Files
 
 The following files were used to answer each quesion, hypothesis test and create visualisations:
 * OMDB Movie Trends.ipynb - Question 1 (Sunil Malhi)
+* Genre_analysis.ipynb - Question 2 (Aysha Gheewala)
 * movie_actor_director_analysis.ipynb - Question 3 (Godswill Anyasor)
 * runtime_and_votes.ipynb - Question 4 (Ayomide Olanrewaju)
 * budget_vs_gross.ipynb - Quesion 5 (Mohammed Sadek Ahmed)
 
 The file the includes the Project Write Up:
-* project_write_up.docx
+* [project_write_up.docx](https://github.com/AnyasorG/project1_group4/tree/main/project_write_up.docx)
 
 The following files below were used below to 
 
