@@ -70,15 +70,15 @@ The outputs are the figures that were exported from the relevant jupiter noteboo
 
 Below we have provided a few example outputs:
 
-![figure 1 of question 1] (/Images/Fig1.1.png)
+![figure 1 of question 1](/Images/Fig1.1.png)
 
-![figure 1 of question 2] (/Images/Fig2.1.png)
+![figure 1 of question 2](/Images/Fig2.1.png)
 
-![figure 1 of question 3] (/Images/Fig 3.3.png)
+![figure 1 of question 3](/Images/Fig3.3.png)
 
-![figure 1 of question 4] (/Images/Fig4.1.png)
+![figure 1 of question 4](/Images/Fig4.1.png)
 
-![figure 1 of question 5] (/Images/Fig5.1.png)
+![figure 1 of question 5](/Images/Fig5.1.png)
 
 All outputs are included in the Images folder of the repository:
 [Images](https://github.com/AnyasorG/project1_group4/tree/main/Images)
