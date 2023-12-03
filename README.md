@@ -13,7 +13,6 @@
 * [Data Sources](#data-sources)
 * [Project Files](#project-files)
 * [Outputs](#outputs)
-* [Summary/Recommendations of findings](#Summary)
 * [Team/Contributors](#team)
   
 ## <a id="project-outline"></a>Project Outline
