@@ -59,10 +59,11 @@ The following files were used to answer each quesion, hypothesis test and create
 * runtime_and_votes.ipynb - Question 4 (Ayomide Olanrewaju)
 * budget_vs_gross.ipynb - Quesion 5 (Mohammed Sadek Ahmed)
 
-The file the includes the Project Write Up:
+The file that includes the Project Write Up:
 * [project_write_up.docx](https://github.com/AnyasorG/project1_group4/tree/main/project_write_up.docx)
 
-The following files below were used below to 
+The file that includes the powerpoint presentation: 
+* [Project1_Presentation.pptx](https://github.com/AnyasorG/project1_group4/tree/main/Project1_Presentation.pptx)
 
 ## <a id="outputs"></a>Outputs
 
@@ -74,7 +75,7 @@ Below we have provided a few example outputs:
 
 ![figure 1 of question 2](/Images/Fig2.1.png)
 
-![figure 1 of question 3](/Images/Fig_3.3.png)
+![figure 1 of question 3](/Images/Fig3.3.png)
 
 ![figure 1 of question 4](/Images/Fig4.1.png)
 
