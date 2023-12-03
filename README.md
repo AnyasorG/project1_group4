@@ -3,7 +3,7 @@
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.pngall.com/wp-content/uploads/13/Movie-Hollywood-No-Background.png">
- <source media="(prefers-color-scheme: light)" srcset="https://www.pngall.com/wp-content/uploads/13/Movie-PNG-Free-Image.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.pngall.com/wp-content/uploads/13/Movie-Hollywood-PNG-HD-Image.png">
  <img alt=" " src="https://www.pngall.com/wp-content/uploads/13/Movie-Hollywood-PNG-Image-HD.png">
 </picture>
 
@@ -21,7 +21,7 @@ Through comprehensive data analysis, genre comparisons, historical insights, and
 
 Questions for which we will be testing our hypotheses for many factors in the Movie industry that may contribute to its success:
 
-* Question 1: How have movie ratings evolved over the years, and are there discernible trends within different genres or directors?
+* Question 1: How have movie ratings evolved over the years, and are there discernible trends within different genres?
 
 * Question 2: Which movie genres reign supreme in popularity, and is there a correlation between a movie's genre and its commercial success?
 
