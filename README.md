@@ -63,6 +63,7 @@ The file that includes the Project Write Up:
 
 The file that includes the powerpoint presentation: 
 * [Project1_Presentation.pptx](https://github.com/AnyasorG/project1_group4/tree/main/Project1_Presentation.pptx)
+* [Presentation PDF](https://github.com/AnyasorG/project1_group4/tree/main/Project1_Presentation.pdf)
 
 ## <a id="outputs"></a>Outputs
 
